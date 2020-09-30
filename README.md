@@ -1,1 +1,1 @@
-# panaroo_find-differences_in_clones.sh
+# panaroo_find_differences_in_clones.sh
